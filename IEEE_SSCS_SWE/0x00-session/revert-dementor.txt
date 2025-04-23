@@ -1,0 +1,2 @@
+# Undo dementor invasion commit
+git revert HEAD
